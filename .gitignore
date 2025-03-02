@@ -1,0 +1,39 @@
+### Node.js ###
+# Dependencias de Node
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Archivos de logs
+debug.log
+debug.log.*
+*.log
+
+# Directorios de construcción y salida
+dist/
+build/
+coverage/
+out/
+
+# Entornos y configuraciones locales
+.env
+.env.local
+.env.*.local
+
+# Cache y archivos temporales
+.nyc_output/
+coverage/
+.tmp/
+
+# Archivos de depuración
+.DS_Store
+Thumbs.db
+
+# Configuración de editores de código
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
