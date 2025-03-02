@@ -9,6 +9,7 @@ API para gestionar un negocio como desarrollador freelancer. El objetivo es pode
 - Gestion de clientes
 - Presupuestador
 - Generador de facturas
+- Documentacion para APIs
 
 ## Requisitos Previos
 - Node.js v18+
